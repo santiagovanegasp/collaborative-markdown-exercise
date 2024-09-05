@@ -29,5 +29,7 @@ J'ai 33 ans et je viens de Colombie , toujours j'ai été interessé par le codi
 
 
 
+### Antoine
+
 - Name : Antoine Merino Aguilar
-  Bio: I'm 26 years old, new student at BeCode, I love football, video games, coding and much more !
+- Bio: I'm 26 years old, new student at BeCode, I love football, video games, coding and much more !
