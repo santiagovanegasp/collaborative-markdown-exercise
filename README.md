@@ -28,6 +28,8 @@ This is a collaborative markdown file where students will add their names and a 
 
 
 
+### Antoine
+
 - Name : Antoine Merino Aguilar
-  Bio: I'm 26 years old, new student at BeCode, I love football, video games, coding and much more !
-- TEST !
+  
+- Bio: I'm 26 years old, new student at BeCode, I love football, video games, coding and much more !
